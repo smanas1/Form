@@ -1,0 +1,20 @@
+.input {
+  width: 400px;
+  padding: 20px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.button {
+  background-color: rgb(1, 150, 250);
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  border: none;
+  font-size: 20px;
+}
+.input h1 {
+  text-align: center;
+}
